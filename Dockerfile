@@ -1,5 +1,5 @@
 # Use Ubuntu 24.04 as the base image
-FROM ubuntu:24.04
+FROM ubuntu:24.10
 
 # Set the maintainer label
 LABEL maintainer="your-email@example.com"
